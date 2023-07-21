@@ -47,7 +47,7 @@
     background: #ff0000;
     position: absolute;
     left: 15px;
-    bottom: 20px;
+    bottom: -10px;
 }
 
 .navbar ul li:hover::after{
