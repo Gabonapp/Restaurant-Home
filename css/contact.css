@@ -32,7 +32,6 @@
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 20px;
     position: relative;
 }
 
@@ -42,7 +41,7 @@
     width: 0%;
     background: #ff0000;
     position: absolute;
-    left: 15px;
+    left: 20px;
     bottom: -10px;
 }
 

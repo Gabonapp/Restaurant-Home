@@ -43,7 +43,7 @@
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 20px;
+    margin: 0px;
     position: relative;
 }
 
