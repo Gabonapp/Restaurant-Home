@@ -160,6 +160,8 @@
     border-radius: 4px;
 }
 
+
+
 .styled-input label{
     color: #999;
     padding: 1.3rem 30px 1rem 30px;
@@ -168,6 +170,7 @@
     -wibkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
     pointer-events: none;
+    position: absolute;
 }
 
 .styled-input.wide{
